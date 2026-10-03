@@ -1,0 +1,101 @@
+customer_id,age,gender,annual_income,spending_score,purchase_frequency,avg_order_value,total_purchases,browsing_time_minutes,product_category_preference,device_type,last_purchase_days,segment,customer_lifetime_value,return_rate,payment_method,newsletter_subscribed,social_media_engagement,avg_review_rating,cart_abandonment_rate,discount_usage_pct,referral_source,customer_satisfaction_score,preferred_shopping_hour,mobile_app_user,wishlist_items,customer_since_months,loyalty_tier,email_open_rate,click_through_rate,cross_category_purchases,repeat_purchase_rate,avg_session_duration,pages_per_session,geographic_region,preferred_shipping,support_interactions,product_reviews_count,social_shares,coupon_redemptions
+1,58,Male,16639,93,16,92.35,16,157,Clothing,Tablet,6,High Value,2955.1,0.026,Bank Transfer,Yes,81,3.0,0.261,0.309,Advertisement,4.7,19,No,17,24,Gold,0.36,0.12,3,0.76,1008,3,South,Same Day,1,8,4,1
+2,66,Female,21698,72,18,87.9,18,184,Home & Garden,Tablet,5,High Value,4614.83,0.036,Bank Transfer,No,18,3.0,0.157,0.292,Google Search,4.3,8,No,21,35,Gold,0.05,0.01,1,0.93,1055,6,North,Same Day,1,14,5,2
+3,28,Female,38283,76,16,106.05,16,227,Clothing,Tablet,6,High Value,4949.22,0.024,PayPal,Yes,39,4.6,0.245,0.307,Influencer,4.4,13,No,12,35,Platinum,0.28,0.07,3,0.84,397,13,West,Same Day,2,14,1,2
+4,26,Male,32219,93,18,111.93,18,191,Beauty,Mobile,3,High Value,3693.84,0.033,Cash on Delivery,No,19,2.7,0.3,0.302,Direct,4.3,17,Yes,16,22,Gold,0.05,0.02,1,0.76,876,14,North,Overnight,2,10,0,2
+5,45,Male,44735,70,16,114.16,16,237,Home & Garden,Mobile,2,High Value,3348.59,0.05,Bank Transfer,Yes,86,3.3,0.166,0.325,Google Search,4.9,9,Yes,25,22,Gold,0.3,0.07,1,0.85,267,14,West,Standard,2,4,4,3
+6,53,Male,32370,86,18,113.93,18,209,Sports,Mobile,7,High Value,5810.48,0.064,Debit Card,Yes,18,3.3,0.18,0.262,Referral,5.0,16,No,7,34,Platinum,0.15,0.06,1,0.88,414,4,North,Overnight,0,7,2,3
+7,31,Male,45976,77,19,109.22,19,164,Electronics,Desktop,1,High Value,3631.73,0.026,Cash on Delivery,No,25,4.7,0.215,0.285,Social Media,4.6,11,No,6,21,Diamond,0.11,0.03,2,0.9,465,10,South,Standard,1,3,0,0
+8,23,Male,25899,83,19,99.44,19,191,Beauty,Tablet,1,High Value,4880.88,0.03,Bank Transfer,No,4,3.0,0.15,0.278,Social Media,4.9,8,No,18,31,Platinum,0.15,0.03,3,0.91,238,3,Central,Same Day,2,5,0,0
+9,29,Male,19453,91,15,97.11,15,212,Clothing,Tablet,2,High Value,3156.18,0.055,Cash on Delivery,No,7,3.2,0.156,0.216,Social Media,4.7,18,No,20,26,Platinum,0.06,0.02,1,0.86,189,10,Central,Standard,0,6,4,2
+10,26,Female,19508,98,15,96.09,15,160,Home & Garden,Tablet,4,High Value,4203.75,0.07,Credit Card,Yes,43,2.8,0.256,0.322,Google Search,5.0,19,No,17,35,Gold,0.23,0.07,2,0.88,914,8,South,Overnight,2,15,2,0
+11,23,Female,33132,71,12,95.01,12,156,Beauty,Mobile,6,High Value,1900.13,0.079,Bank Transfer,Yes,57,4.0,0.174,0.288,Social Media,4.8,14,No,9,20,Gold,0.33,0.16,1,0.86,1100,8,South,Express,2,3,11,3
+12,57,Male,30514,97,14,114.29,14,162,Home & Garden,Mobile,4,High Value,3333.35,0.021,Cash on Delivery,Yes,58,4.7,0.26,0.266,Influencer,4.9,15,No,14,25,Diamond,0.32,0.14,2,0.91,408,3,South,Same Day,1,8,2,2
+13,40,Female,36702,100,12,88.46,12,173,Books,Tablet,2,High Value,2742.27,0.055,Credit Card,No,28,3.9,0.298,0.208,Email Campaign,4.7,8,No,22,31,Platinum,0.09,0.03,2,0.82,552,9,North,Overnight,2,10,5,0
+14,64,Female,48234,79,18,94.79,18,229,Home & Garden,Desktop,3,High Value,5118.42,0.053,Bank Transfer,Yes,48,3.2,0.179,0.333,Direct,4.5,20,No,18,36,Gold,0.45,0.13,4,0.9,632,13,South,Same Day,2,5,5,0
+15,36,Female,21120,96,15,105.18,15,168,Sports,Tablet,7,High Value,4207.35,0.032,Bank Transfer,Yes,99,3.5,0.154,0.249,Direct,4.6,11,No,4,32,Gold,0.48,0.1,1,0.92,977,9,South,Express,2,14,1,1
+16,25,Female,23738,95,19,105.03,19,211,Sports,Mobile,5,High Value,5820.26,0.039,Cash on Delivery,No,14,3.1,0.263,0.289,Social Media,4.9,21,Yes,24,35,Platinum,0.16,0.06,2,0.93,461,10,North,Overnight,0,8,2,2
+17,52,Male,24068,74,15,96.49,15,159,Books,Tablet,6,High Value,3618.41,0.033,Credit Card,No,15,2.5,0.212,0.266,Email Campaign,4.6,12,No,24,30,Platinum,0.08,0.04,4,0.76,731,14,Central,Express,1,7,2,3
+18,49,Male,40484,80,18,106.73,18,199,Clothing,Desktop,2,High Value,4962.73,0.079,Debit Card,Yes,43,3.4,0.23,0.381,Social Media,4.7,15,No,10,31,Gold,0.32,0.15,3,0.88,950,9,East,Standard,1,0,5,0
+19,40,Male,19496,94,12,107.63,12,171,Beauty,Desktop,2,High Value,3444.06,0.07,PayPal,Yes,87,4.0,0.243,0.248,Advertisement,4.6,19,No,3,32,Gold,0.54,0.13,3,0.77,290,12,North,Overnight,2,12,12,1
+20,22,Male,21678,92,16,110.51,16,216,Books,Tablet,7,High Value,2946.9,0.027,PayPal,Yes,63,4.6,0.298,0.357,Google Search,4.5,14,No,11,20,Platinum,0.47,0.21,2,0.84,625,5,Central,Overnight,2,15,14,3
+21,70,Female,36122,97,15,109.92,15,151,Home & Garden,Mobile,3,High Value,4534.28,0.073,Digital Wallet,Yes,55,4.5,0.187,0.293,Email Campaign,4.7,12,Yes,22,33,Gold,0.59,0.22,2,0.83,267,6,West,Same Day,2,7,15,3
+22,46,Male,21098,79,15,97.13,15,171,Home & Garden,Tablet,3,High Value,3399.62,0.06,Digital Wallet,No,9,3.1,0.205,0.311,Google Search,4.5,19,No,6,28,Diamond,0.06,0.03,2,0.95,376,6,West,Overnight,2,9,0,1
+23,36,Male,38650,75,16,85.42,16,208,Electronics,Tablet,2,High Value,2391.88,0.036,PayPal,No,15,3.6,0.296,0.311,Social Media,4.8,8,No,8,21,Platinum,0.19,0.07,1,0.78,590,10,North,Standard,0,4,4,2
+24,23,Male,22762,87,18,103.19,18,219,Books,Tablet,2,High Value,4179.18,0.067,Credit Card,Yes,36,4.1,0.207,0.382,Email Campaign,4.4,18,No,2,27,Platinum,0.23,0.06,1,0.87,340,3,West,Same Day,2,15,2,0
+25,32,Female,33528,92,19,87.14,19,169,Beauty,Mobile,3,High Value,3449.11,0.067,PayPal,Yes,19,2.6,0.244,0.332,Influencer,4.9,12,Yes,18,25,Diamond,0.61,0.2,4,0.84,885,7,West,Overnight,2,15,3,0
+26,56,Male,43313,93,17,103.11,17,143,Books,Mobile,1,High Value,3797.94,0.034,Debit Card,No,16,4.1,0.251,0.372,Email Campaign,4.7,10,Yes,13,26,Diamond,0.13,0.05,1,0.75,661,8,West,Overnight,1,3,1,2
+27,44,Female,33888,91,18,109.41,18,210,Beauty,Tablet,1,High Value,2953.99,0.047,Digital Wallet,No,1,3.0,0.197,0.265,Email Campaign,5.0,17,No,24,18,Diamond,0.1,0.03,1,0.83,388,7,Central,Express,1,14,5,3
+28,25,Male,30682,92,14,94.32,14,141,Sports,Tablet,5,High Value,2420.94,0.044,PayPal,No,13,4.6,0.184,0.368,Direct,4.3,11,No,14,22,Diamond,0.11,0.03,2,0.94,1064,4,East,Same Day,1,8,0,2
+29,64,Female,47089,97,14,98.4,14,201,Books,Desktop,3,High Value,2869.9,0.04,Debit Card,No,1,3.3,0.264,0.275,Direct,4.9,19,No,25,25,Diamond,0.08,0.04,2,0.92,687,3,South,Overnight,0,14,0,3
+30,18,Male,41868,97,14,87.24,14,240,Home & Garden,Tablet,3,High Value,3053.57,0.04,Cash on Delivery,No,27,3.9,0.254,0.33,Referral,4.9,9,No,7,30,Diamond,0.13,0.06,2,0.92,944,4,West,Standard,2,3,3,1
+31,62,Female,16897,71,17,108.88,17,177,Electronics,Tablet,3,High Value,3547.81,0.042,Digital Wallet,Yes,73,4.8,0.172,0.306,Social Media,4.7,11,No,14,23,Gold,0.47,0.16,1,0.91,1100,15,West,Overnight,2,5,2,3
+32,40,Female,42807,92,16,98.71,16,178,Electronics,Tablet,2,High Value,3553.38,0.08,Digital Wallet,No,0,3.9,0.278,0.221,Advertisement,4.5,20,No,23,27,Platinum,0.19,0.09,4,0.82,1032,7,South,Overnight,0,6,4,2
+33,61,Male,21367,98,12,94.27,12,196,Clothing,Tablet,1,High Value,2262.43,0.055,PayPal,No,26,2.9,0.26,0.218,Influencer,4.4,15,No,25,24,Gold,0.06,0.03,1,0.9,659,4,South,Express,2,12,4,2
+34,23,Female,15912,78,20,88.71,20,187,Sports,Mobile,6,High Value,3696.15,0.065,Bank Transfer,No,29,4.0,0.189,0.276,Advertisement,4.7,9,Yes,14,25,Diamond,0.18,0.05,4,0.82,299,5,North,Standard,1,15,0,0
+35,33,Male,40470,84,17,105.11,17,235,Books,Desktop,6,High Value,4914.11,0.077,PayPal,Yes,98,3.4,0.213,0.348,Direct,4.3,15,No,7,33,Gold,0.58,0.13,3,0.83,737,13,East,Standard,1,8,6,0
+36,70,Female,21007,91,15,104.25,15,216,Books,Mobile,1,High Value,3127.53,0.023,Debit Card,No,24,2.9,0.2,0.398,Referral,4.8,8,No,4,24,Diamond,0.2,0.07,2,0.79,292,13,North,Express,0,11,1,2
+37,19,Male,32391,71,14,107.25,14,207,Books,Mobile,1,High Value,3128.17,0.065,Cash on Delivery,No,14,4.1,0.221,0.356,Google Search,4.6,8,Yes,12,25,Diamond,0.09,0.02,4,0.77,255,4,East,Express,0,4,2,2
+38,42,Female,44734,86,18,87.98,18,229,Sports,Desktop,1,High Value,3299.08,0.071,Digital Wallet,No,13,4.3,0.248,0.354,Email Campaign,4.8,14,No,10,25,Platinum,0.13,0.04,2,0.79,883,10,North,Standard,0,2,3,0
+39,65,Female,23527,87,12,102.59,12,211,Home & Garden,Tablet,5,High Value,1949.29,0.04,PayPal,No,3,3.9,0.168,0.271,Social Media,4.7,10,No,21,19,Diamond,0.1,0.05,3,0.9,1045,11,East,Standard,1,7,3,0
+40,56,Female,16897,75,16,106.08,16,179,Electronics,Tablet,3,High Value,2545.94,0.041,Bank Transfer,Yes,58,3.5,0.177,0.229,Email Campaign,4.7,10,No,11,18,Diamond,0.31,0.09,1,0.76,1084,3,South,Express,2,1,2,2
+41,46,Female,46828,49,9,156.06,9,63,Clothing,Desktop,26,Medium Value,702.29,0.058,Bank Transfer,Yes,10,3.0,0.386,0.457,Social Media,4.2,20,No,2,6,Gold,0.53,0.15,0,0.62,187,10,West,Express,0,3,4,1
+42,50,Female,19723,42,11,128.17,11,51,Electronics,Desktop,24,Medium Value,1174.92,0.114,Credit Card,No,5,4.5,0.472,0.515,Referral,4.1,15,No,5,10,Gold,0.02,0.01,0,0.68,626,12,West,Standard,1,2,5,5
+43,32,Female,26018,32,10,172.49,10,83,Electronics,Mobile,26,Medium Value,1293.69,0.064,PayPal,Yes,32,4.0,0.455,0.47,Influencer,4.5,20,Yes,2,9,Silver,0.63,0.24,1,0.66,952,12,Central,Same Day,2,4,5,2
+44,58,Female,24893,44,6,160.17,6,90,Home & Garden,Desktop,19,Medium Value,480.51,0.106,Credit Card,Yes,88,4.0,0.418,0.47,Direct,3.6,15,No,9,6,Silver,0.43,0.19,0,0.62,640,15,Central,Express,1,4,15,1
+45,21,Female,21783,40,11,131.32,11,91,Home & Garden,Desktop,15,Medium Value,1324.19,0.053,Digital Wallet,No,21,4.0,0.442,0.598,Influencer,4.0,18,No,10,11,Gold,0.07,0.02,2,0.65,874,9,East,Overnight,2,5,4,2
+46,39,Male,24268,41,8,197.58,8,94,Beauty,Tablet,22,Medium Value,1053.75,0.059,Cash on Delivery,Yes,92,4.2,0.442,0.417,Referral,4.1,13,No,0,8,Gold,0.33,0.08,0,0.66,529,15,West,Express,0,1,4,0
+47,36,Male,48271,47,11,191.28,11,52,Sports,Mobile,20,Medium Value,2980.72,0.111,Digital Wallet,No,21,4.3,0.424,0.519,Direct,3.7,17,No,7,17,Silver,0.05,0.01,1,0.55,1105,6,East,Same Day,1,2,3,8
+48,51,Female,25620,36,10,135.38,10,66,Electronics,Mobile,11,Medium Value,1128.17,0.095,PayPal,No,28,3.8,0.475,0.511,Influencer,3.6,14,No,3,10,Silver,0.16,0.07,0,0.71,604,3,West,Overnight,0,3,0,5
+49,32,Male,35885,33,11,173.75,11,100,Books,Mobile,14,Medium Value,2070.49,0.06,Credit Card,Yes,42,3.0,0.357,0.566,Social Media,4.2,16,Yes,9,13,Gold,0.41,0.1,1,0.53,423,7,North,Standard,0,3,5,7
+50,22,Male,47756,49,10,126.23,10,82,Beauty,Tablet,28,Medium Value,841.55,0.067,Credit Card,No,2,4.9,0.329,0.486,Referral,4.1,16,No,8,8,Gold,0.11,0.03,1,0.56,224,13,West,Overnight,1,5,0,2
+51,68,Male,37596,37,11,174.28,11,56,Beauty,Desktop,28,Medium Value,2875.67,0.101,Cash on Delivery,No,20,3.0,0.367,0.409,Social Media,4.0,9,No,7,18,Silver,0.01,0.0,0,0.7,1087,3,East,Overnight,2,3,4,3
+52,34,Male,27524,39,8,189.66,8,53,Clothing,Desktop,30,Medium Value,1390.84,0.073,Cash on Delivery,No,11,4.8,0.325,0.474,Referral,4.4,12,No,1,11,Gold,0.15,0.03,2,0.69,1198,5,Central,Overnight,1,0,0,2
+53,60,Female,35086,44,10,178.82,10,60,Electronics,Mobile,24,Medium Value,2384.33,0.075,Cash on Delivery,No,11,3.8,0.308,0.574,Advertisement,3.9,18,No,0,16,Gold,0.03,0.01,1,0.75,215,5,North,Express,2,2,2,6
+54,54,Male,25055,44,8,152.9,8,98,Beauty,Mobile,12,Medium Value,611.6,0.09,Digital Wallet,No,29,3.9,0.406,0.48,Email Campaign,4.1,20,No,7,6,Silver,0.04,0.02,2,0.56,1118,10,South,Standard,0,0,3,1
+55,63,Female,20753,40,11,151.06,11,54,Home & Garden,Tablet,27,Medium Value,2492.44,0.088,Debit Card,Yes,35,4.5,0.478,0.57,Social Media,4.2,20,No,7,18,Silver,0.16,0.06,1,0.73,658,15,Central,Express,2,0,0,4
+56,43,Female,49451,43,9,186.75,9,54,Clothing,Desktop,14,Medium Value,2521.13,0.118,Bank Transfer,Yes,25,3.8,0.428,0.49,Email Campaign,4.2,10,No,2,18,Silver,0.31,0.13,1,0.59,1150,11,East,Standard,1,1,5,2
+57,26,Female,49962,32,10,173.07,10,87,Electronics,Mobile,28,Medium Value,865.37,0.061,Cash on Delivery,No,20,3.0,0.432,0.544,Referral,4.1,14,Yes,0,6,Silver,0.1,0.04,1,0.71,837,7,West,Express,2,3,2,7
+58,22,Male,25359,44,9,161.32,9,63,Home & Garden,Tablet,20,Medium Value,967.91,0.092,Bank Transfer,Yes,50,3.1,0.363,0.544,Google Search,4.2,12,No,7,8,Gold,0.27,0.06,1,0.72,1148,9,Central,Same Day,0,1,2,5
+59,30,Male,47654,46,9,162.41,9,69,Electronics,Desktop,25,Medium Value,730.83,0.052,Digital Wallet,No,9,3.8,0.489,0.501,Influencer,4.5,9,No,6,6,Gold,0.03,0.01,1,0.55,962,9,East,Standard,1,0,4,8
+60,30,Female,33913,32,9,162.82,9,98,Home & Garden,Tablet,27,Medium Value,1343.26,0.07,PayPal,Yes,35,4.0,0.498,0.536,Direct,3.6,16,No,0,11,Gold,0.17,0.04,1,0.74,1003,10,Central,Same Day,0,4,4,2
+61,38,Female,25649,42,10,180.45,10,69,Home & Garden,Tablet,28,Medium Value,1654.12,0.074,Credit Card,No,18,3.3,0.466,0.506,Advertisement,4.2,21,No,10,11,Silver,0.01,0.0,2,0.57,981,15,Central,Express,2,0,4,7
+62,28,Female,24684,37,6,167.94,6,94,Beauty,Mobile,13,Medium Value,1427.51,0.063,Cash on Delivery,Yes,76,3.0,0.388,0.484,Email Campaign,3.9,18,Yes,6,17,Gold,0.31,0.08,2,0.55,530,11,East,Overnight,2,3,6,1
+63,35,Female,29736,39,8,177.87,8,94,Beauty,Tablet,25,Medium Value,1778.68,0.072,Digital Wallet,No,26,3.4,0.37,0.587,Influencer,4.3,20,No,2,15,Silver,0.06,0.02,2,0.57,260,8,West,Overnight,2,3,1,3
+64,70,Female,32800,34,6,171.18,6,87,Beauty,Desktop,17,Medium Value,941.47,0.067,Credit Card,Yes,10,4.9,0.434,0.506,Social Media,4.1,14,No,10,11,Gold,0.62,0.29,1,0.51,846,6,East,Overnight,1,5,0,1
+65,59,Male,17444,35,9,191.17,9,61,Electronics,Desktop,11,Medium Value,860.26,0.12,Bank Transfer,Yes,52,3.2,0.379,0.499,Advertisement,4.4,16,No,8,6,Gold,0.4,0.19,2,0.74,659,7,South,Standard,1,1,14,2
+66,63,Male,15923,40,8,167.58,8,98,Beauty,Mobile,16,Medium Value,1340.67,0.062,Debit Card,Yes,71,3.3,0.471,0.579,Social Media,4.3,8,No,3,12,Silver,0.37,0.1,1,0.63,489,12,Central,Standard,1,5,11,3
+67,21,Male,45500,39,7,155.41,7,82,Clothing,Desktop,19,Medium Value,1178.5,0.098,Cash on Delivery,No,13,4.3,0.428,0.588,Direct,3.9,20,No,8,13,Silver,0.16,0.07,0,0.56,876,15,Central,Standard,2,3,4,5
+68,22,Male,19047,47,10,140.16,10,84,Books,Desktop,14,Medium Value,817.61,0.062,Credit Card,No,4,3.8,0.471,0.488,Direct,4.2,17,No,0,7,Gold,0.11,0.04,1,0.68,920,3,West,Overnight,0,5,1,0
+69,20,Female,37579,32,10,199.56,10,54,Sports,Desktop,25,Medium Value,1829.29,0.052,Digital Wallet,No,2,4.2,0.382,0.554,Advertisement,4.3,21,No,8,11,Gold,0.03,0.01,0,0.74,362,11,West,Express,2,1,0,0
+70,37,Female,42795,47,9,186.75,9,65,Electronics,Mobile,24,Medium Value,2100.96,0.074,Debit Card,Yes,22,4.0,0.355,0.587,Direct,4.2,17,Yes,0,15,Gold,0.27,0.06,1,0.53,419,11,South,Standard,0,4,2,3
+71,70,Female,36015,10,3,419.06,3,47,Beauty,Desktop,68,Low Value,1152.43,0.133,Bank Transfer,No,1,4.9,0.575,0.615,Advertisement,3.7,18,No,6,11,Bronze,0.16,0.05,1,0.46,598,5,East,Same Day,1,4,3,3
+72,32,Female,24460,17,1,340.6,1,31,Electronics,Tablet,70,Low Value,170.3,0.179,Cash on Delivery,Yes,16,3.2,0.597,0.664,Advertisement,2.9,17,No,9,6,Silver,0.17,0.04,2,0.22,921,13,Central,Express,3,1,2,4
+73,18,Male,27453,6,4,428.61,4,49,Beauty,Desktop,73,Low Value,1285.83,0.206,PayPal,No,11,3.8,0.599,0.66,Direct,2.9,15,No,1,9,Silver,0.16,0.07,1,0.28,1116,6,East,Overnight,3,0,4,3
+74,65,Male,16062,11,5,433.69,5,42,Beauty,Tablet,81,Low Value,1626.34,0.163,PayPal,No,24,4.6,0.538,0.682,Advertisement,3.0,18,No,7,9,Silver,0.09,0.04,1,0.45,353,5,Central,Same Day,1,4,5,0
+75,51,Male,19871,4,1,303.1,1,45,Sports,Mobile,49,Low Value,277.84,0.11,Credit Card,No,0,2.5,0.538,0.655,Advertisement,3.1,12,Yes,4,11,Silver,0.0,0.0,2,0.22,620,15,South,Standard,0,4,1,3
+76,30,Female,38228,11,4,219.75,4,30,Sports,Desktop,64,Low Value,146.5,0.185,Digital Wallet,No,1,4.1,0.748,0.656,Advertisement,3.4,10,No,1,2,Bronze,0.1,0.03,1,0.45,759,4,Central,Standard,1,1,5,7
+77,35,Male,19872,11,5,340.88,5,7,Home & Garden,Mobile,46,Low Value,284.06,0.239,Bank Transfer,Yes,82,4.6,0.579,0.84,Direct,3.3,18,Yes,5,2,Silver,0.34,0.14,2,0.43,921,4,Central,Overnight,0,0,13,3
+78,22,Female,40998,13,1,358.53,1,33,Books,Desktop,66,Low Value,59.76,0.134,Debit Card,Yes,20,3.2,0.638,0.694,Direct,2.7,19,No,10,2,Silver,0.23,0.07,1,0.38,289,4,North,Overnight,3,2,2,1
+79,26,Male,27280,16,4,339.25,4,37,Home & Garden,Desktop,61,Low Value,113.08,0.115,Digital Wallet,Yes,81,4.8,0.522,0.739,Social Media,3.3,17,No,8,1,Silver,0.23,0.07,0,0.44,455,7,East,Same Day,1,0,5,6
+80,35,Female,34644,18,1,290.28,1,20,Books,Desktop,81,Low Value,145.14,0.194,PayPal,No,10,3.6,0.648,0.649,Influencer,2.6,21,No,10,6,Silver,0.19,0.05,1,0.29,797,14,South,Same Day,2,1,3,5
+81,36,Female,30887,13,4,270.08,4,30,Sports,Tablet,58,Low Value,1080.3,0.117,Debit Card,No,25,3.2,0.641,0.748,Advertisement,3.2,9,No,6,12,Bronze,0.13,0.03,1,0.4,427,7,South,Same Day,3,0,3,7
+82,55,Female,48201,16,5,209.19,5,28,Beauty,Tablet,79,Low Value,261.49,0.234,Credit Card,No,30,4.4,0.634,0.76,Influencer,2.6,14,No,1,3,Silver,0.0,0.0,2,0.43,944,11,Central,Express,3,2,3,7
+83,67,Male,37607,3,4,226.14,4,31,Sports,Desktop,40,Low Value,678.41,0.117,Digital Wallet,Yes,66,4.3,0.735,0.635,Direct,2.9,13,No,1,9,Bronze,0.3,0.13,0,0.34,203,8,North,Express,5,1,16,2
+84,53,Male,36691,20,4,439.62,4,19,Books,Desktop,60,Low Value,1172.31,0.194,Digital Wallet,Yes,100,3.0,0.547,0.764,Email Campaign,3.0,20,No,1,8,Bronze,0.44,0.19,2,0.42,371,8,East,Express,3,0,8,7
+85,51,Female,40469,15,5,228.56,5,27,Clothing,Desktop,64,Low Value,1047.56,0.193,Credit Card,Yes,49,2.8,0.703,0.776,Email Campaign,2.9,19,No,2,11,Bronze,0.41,0.13,0,0.38,768,9,West,Express,3,5,4,2
+86,53,Male,47089,12,2,246.77,2,33,Beauty,Desktop,74,Low Value,287.9,0.108,Digital Wallet,No,15,2.9,0.59,0.602,Referral,2.7,8,No,3,7,Silver,0.06,0.02,2,0.44,475,5,West,Same Day,4,4,0,1
+87,35,Female,17726,17,5,254.64,5,32,Electronics,Desktop,41,Low Value,636.59,0.21,Credit Card,Yes,36,4.5,0.663,0.662,Referral,3.6,19,No,5,6,Silver,0.58,0.22,1,0.21,349,12,South,Express,1,0,4,5
+88,52,Female,26034,13,3,272.33,3,22,Beauty,Mobile,67,Low Value,340.42,0.248,Cash on Delivery,Yes,41,2.9,0.67,0.624,Email Campaign,3.8,21,No,10,5,Bronze,0.35,0.08,2,0.44,455,13,West,Same Day,3,0,5,1
+89,43,Female,39187,17,4,281.82,4,5,Sports,Mobile,84,Low Value,845.47,0.227,Digital Wallet,Yes,73,3.2,0.523,0.843,Influencer,3.3,12,Yes,9,9,Bronze,0.22,0.1,1,0.41,1095,13,North,Standard,0,5,14,0
+90,25,Male,43920,17,1,447.96,1,32,Beauty,Desktop,47,Low Value,74.66,0.249,PayPal,Yes,57,4.2,0.727,0.821,Advertisement,2.9,10,No,0,2,Silver,0.35,0.1,2,0.46,953,6,West,Standard,5,0,0,3
+91,48,Male,23696,10,5,370.0,5,5,Sports,Mobile,35,Low Value,616.66,0.204,Cash on Delivery,Yes,23,3.3,0.704,0.847,Email Campaign,3.0,10,Yes,2,4,Bronze,0.47,0.19,0,0.24,723,12,North,Express,3,2,5,3
+92,58,Male,41981,17,2,221.67,2,11,Home & Garden,Tablet,43,Low Value,147.78,0.213,Credit Card,Yes,80,4.0,0.647,0.696,Advertisement,3.8,17,No,4,4,Bronze,0.54,0.22,2,0.29,1076,7,South,Express,5,3,9,0
+93,68,Male,47432,15,1,260.27,1,45,Sports,Desktop,73,Low Value,216.89,0.111,Bank Transfer,Yes,70,4.9,0.722,0.603,Influencer,3.0,9,No,0,10,Silver,0.44,0.09,0,0.29,220,3,West,Overnight,5,5,16,6
+94,45,Female,20401,20,5,354.01,5,22,Beauty,Tablet,40,Low Value,1475.05,0.146,Cash on Delivery,Yes,49,4.2,0.628,0.651,Advertisement,3.6,21,No,3,10,Silver,0.18,0.04,1,0.36,298,10,Central,Standard,2,5,5,2
+95,25,Male,23992,3,2,324.1,2,27,Electronics,Mobile,68,Low Value,648.21,0.178,PayPal,No,8,3.8,0.706,0.665,Email Campaign,3.0,19,Yes,10,12,Silver,0.02,0.01,1,0.42,236,10,Central,Express,2,1,2,1
+96,54,Male,29968,19,1,211.01,1,5,Beauty,Tablet,50,Low Value,158.26,0.107,Cash on Delivery,No,7,3.3,0.591,0.83,Direct,2.7,22,No,5,9,Bronze,0.05,0.01,1,0.49,302,11,North,Express,1,4,0,6
+97,22,Female,33501,12,3,221.6,3,34,Sports,Mobile,35,Low Value,553.99,0.155,Cash on Delivery,Yes,29,2.5,0.573,0.796,Direct,3.5,8,No,5,10,Silver,0.47,0.19,0,0.27,1153,8,North,Same Day,5,5,2,1
+98,31,Male,42513,18,1,443.14,1,14,Beauty,Mobile,80,Low Value,295.43,0.142,Bank Transfer,Yes,74,2.8,0.511,0.658,Influencer,3.6,14,No,9,8,Silver,0.18,0.07,0,0.32,422,7,East,Overnight,3,5,10,5
+99,46,Female,30309,5,2,234.03,2,42,Home & Garden,Desktop,41,Low Value,312.04,0.123,PayPal,Yes,21,2.9,0.541,0.717,Advertisement,3.0,12,No,9,8,Bronze,0.17,0.08,1,0.36,331,4,South,Overnight,3,4,0,4
+100,34,Male,17036,15,4,338.99,4,40,Clothing,Desktop,50,Low Value,338.99,0.114,PayPal,Yes,84,4.0,0.525,0.798,Influencer,2.7,9,No,0,3,Bronze,0.65,0.17,2,0.22,634,15,South,Standard,2,0,1,7
